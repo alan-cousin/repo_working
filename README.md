@@ -12,3 +12,8 @@ https://hashscan.io/mainnet/transaction/1726621129.846296351
 29260
 
 
+****
+
+4.
+https://etherscan.io/tx/0x03205b1fd77e798c26881ab1f26449850bc6d37f7e6f72a14f84a18c81101215
+[10000]
